@@ -23,7 +23,8 @@ To use this template, simply download the source code or clone the repository:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 
-Then, open the index.html file in your preferred text editor to start modifying the template. Here are some key files and directories to be aware of:
+Then, open the index.html file in your preferred text editor to start modifying the template.
+Here are some key files and directories to be aware of:
 index.html: Main HTML file containing the structure of the web page.
 styles/: Directory containing CSS files, including Tailwind CSS for styling.
 scripts/: Directory containing JavaScript files, including the Swiper library.

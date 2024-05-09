@@ -1,58 +1,37 @@
-# ReactJS Template with Tailwind CSS and Swiper
+# HTML Template with Tailwind CSS and Swiper
 
-This project is a starter template for building ReactJS applications with Tailwind CSS for styling and Swiper for carousel/slider functionality. It provides a solid foundation for quickly prototyping and developing modern web applications.
+This project is a starter template for building web applications with pure HTML, CSS (using Tailwind CSS for styling), and JavaScript (utilizing the Swiper library for carousel/slider functionality). It provides a solid foundation for quickly prototyping and developing modern web applications.
 
-![ReactJS Template](/path/to/your/image.png)
 
+![2015-09-20 17 02 28](https://github.com/b-owl/eCommerce_tailwind_template/blob/master/assets/images/preview/1.png)
 ## Features
 
-- **ReactJS:** Utilizes the power of ReactJS for building dynamic and interactive user interfaces.
+- **Pure HTML, CSS, and JavaScript:** Utilizes native web technologies for building dynamic and interactive user interfaces.
 - **Tailwind CSS:** A utility-first CSS framework for rapid UI development, allowing for easy customization and responsive design.
 - **Swiper:** Integrates the Swiper library for creating mobile-friendly sliders and carousels with touch support.
 - **Responsive Design:** Built-in support for creating responsive layouts, ensuring optimal viewing experience across various devices and screen sizes.
-- **Component-based Architecture:** Organized into reusable components, making it easy to maintain and scale the application.
 - **Customizable:** Easily extend and modify the template to suit your specific project requirements.
-- **ViteJS:** Utilizes ViteJS for fast development server and optimized production builds.
 
-## Getting Started
+## Live Demo
 
-To get started with this template, follow these steps:
-
-1. **Clone the Repository:**
-git clone https://github.com/your-username/your-repo.git
-
-2. **Install Dependencies:**
- cd your-repo
- npm install
-
-3. **Run the Development Server:**
-
-4. **Open in Browser:**
-Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+Check out the live demo [here](https://b-owl.github.io/eCommerce_tailwind_template/).
 
 ## Usage
 
-Once the development server is running, you can start modifying the template to build your own application. Here are some key directories and files to be aware of:
+To use this template, simply download the source code or clone the repository:
 
-- **`src/components/`:** Contains reusable React components. You can create new components or modify existing ones here.
-- **`src/styles/`:** Includes Tailwind CSS configuration and utility classes. Customize styles in `tailwind.config.js` and `src/styles/index.css`.
-- **`src/pages/`:** Houses the main pages of your application. You can add or modify pages as needed.
-- **`public/`:** Contains static assets such as images and fonts.
+```bash
+git clone https://github.com/your-username/your-repo.git
+
+Then, open the index.html file in your preferred text editor to start modifying the template. Here are some key files and directories to be aware of:
+index.html: Main HTML file containing the structure of the web page.
+styles/: Directory containing CSS files, including Tailwind CSS for styling.
+scripts/: Directory containing JavaScript files, including the Swiper library.
+```
 
 ## Documentation
+For detailed documentation on Tailwind CSS and Swiper, refer to their official documentation websites:
 
-For detailed documentation on ReactJS, Tailwind CSS, Swiper, and ViteJS, refer to their official documentation websites:
-
-- [ReactJS Documentation](https://reactjs.org/docs/getting-started.html)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Swiper Documentation](https://swiperjs.com/get-started)
-- [ViteJS Documentation](https://vitejs.dev/)
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+[Tailwind CSS Documentation](https://tailwindcss.com/).
+<br/>
+[Swiper Documentation](https://swiperjs.com/swiper-api).

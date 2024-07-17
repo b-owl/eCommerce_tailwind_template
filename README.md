@@ -21,14 +21,15 @@ Check out the live demo [here](https://b-owl.github.io/eCommerce_tailwind_templa
 To use this template, simply download the source code or clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-
-Then, open the index.html file in your preferred text editor to start modifying the template.
-Here are some key files and directories to be aware of:
-index.html: Main HTML file containing the structure of the web page.
-styles/: Directory containing CSS files, including Tailwind CSS for styling.
-scripts/: Directory containing JavaScript files, including the Swiper library.
+git clone https://github.com/b-owl/eCommerce_tailwind_template.git
 ```
+Then, open the index.html file in your preferred text editor to start modifying the template.
+
+Here are some key files and directories to be aware of:
+- index.html: Main HTML file containing the structure of the web page.
+- styles/: Directory containing CSS files, including Tailwind CSS for styling.
+- scripts/: Directory containing JavaScript files, including the Swiper library.
+
 
 ## Documentation
 For detailed documentation on Tailwind CSS and Swiper, refer to their official documentation websites:
